@@ -14,7 +14,7 @@ This repo will include the codes I use to visualize and manipulate atmospheric f
 - ERA5 combines vast amounts of historical observations into global estimates using advanced modelling and data assimilation systems.
 - hourly estimates of atmospheric, land, and oceanic climate variables.
 - 30-km grid, 137 vertical levels up to height of 80 km 
-- 
+
 ### North American Mesoscale (NAM) Forecast System
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.ncdc.noaa.gov/data-access/model-data/model-datasets/north-american-mesoscale-forecast-system-nam
 - 12-km resolution, weather model run by National Center for Environmental Prediction (NCEP)
