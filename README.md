@@ -4,6 +4,9 @@ This repo will include the codes I use to visualize and manipulate atmospheric f
 
 ## Atmospheric Products used
 
-### NAM 
+### North American Mesoscale (NAM) Forecast System
+https://www.ncdc.noaa.gov/data-access/model-data/model-datasets/north-american-mesoscale-forecast-system-nam
+
+
 ### HRRR
 ### ERA5
